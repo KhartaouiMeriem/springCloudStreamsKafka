@@ -2,9 +2,7 @@
 
 ## ScreenShots :
 
-### Topic R1: 
-<img width="1440" alt=img.png src="https://github.com/unesshaba/spring-cloud-streams-kafka/blob/master/assets/img.png">
-
+### Topic R1:
 
 
 <img width="1440" alt=lien1.png src="https://github.com/unesshaba/spring-cloud-streams-kafka/blob/master/assets/lien1.PNG">
