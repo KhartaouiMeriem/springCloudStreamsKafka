@@ -22,12 +22,6 @@
 ### Topic R3: 
 
 
-<img width="1440" alt=R3.png src="https://github.com/unesshaba/spring-cloud-streams-kafka/blob/master/assets/R3.PNG">
-
-
-### Topic R4: 
-
-
 ### tracking stream using Smoothie.js 
 
 
